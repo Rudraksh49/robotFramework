@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation  Google Search verification
-
+Resource  ../../Resources/AmazonSearch_keywords.robot
+Resource  ../../Resources/CommonFunctionality.robot
 
 *** Variables ***
 
