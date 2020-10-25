@@ -4,7 +4,7 @@ Library  SeleniumLibrary
 *** Keywords ***
 
 Start Test Case
-    Open Browser  http://amazon.in  chrome
+    Open Browser  http://youtube.com  chrome
     Maximize Browser Window
 
 Finish Test Case
